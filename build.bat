@@ -1,0 +1,1 @@
+kotlinc -d AtSampleHelloKtc.jar AtSampleHelloKtc.kt
